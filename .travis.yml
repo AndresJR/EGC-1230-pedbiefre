@@ -19,6 +19,11 @@ script:
 - coverage run --branch --source=. ./manage.py test --keepdb
 - coverage xml
 - python-codacy-coverage -r coverage.xml
+deploy:
+  provider: heroku
+  app: egc-1230-pedbiefre
+  strategy: git
+  apikey: 76289362-ce8a-484e-af19-ffe3b36adbd0
 notifications:
   email:
     recipients:
