@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/pedbiefre/EGC-1230-pedbiefre.svg?branch=desarrollo)](https://travis-ci.com/pedbiefre/EGC-1230-pedbiefre)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/362ddb50163d4b64b4496b6ac92b8622)](https://www.codacy.com/gh/pedbiefre/EGC-1230-pedbiefre/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pedbiefre/EGC-1230-pedbiefre&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/362ddb50163d4b64b4496b6ac92b8622)](https://www.codacy.com/gh/pedbiefre/EGC-1230-pedbiefre/dashboard?utm_source=github.com&utm_medium=referral&utm_content=pedbiefre/EGC-1230-pedbiefre&utm_campaign=Badge_Coverage)
 
 Plataforma voto electrónico educativa
 =====================================
